@@ -1,4 +1,4 @@
-# Stock-Price-Prediction-using-LSTM
+# Stock-Price-Prediction-Data Science projects
 This project implements a Long Short-Term Memory (LSTM) model to predict stock prices based on historical data.
 
  # Features
